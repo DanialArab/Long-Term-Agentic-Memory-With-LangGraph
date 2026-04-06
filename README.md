@@ -9,3 +9,5 @@
 - Semantic memories: like facts like date of birth
 - Episodic memories: experiences that can help an agent remember how to do tasks
 - Procedural memories: rules for an agent to follow  
+
+![](https://github.com/DanialArab/images/blob/main/Long-Term-Agentic-Memory-With-LangGraph/types_of_memories.png)
